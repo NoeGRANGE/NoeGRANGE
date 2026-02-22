@@ -8,6 +8,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noé-grange-b120a9235) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ngrange@grangeco.app) 
 
+## Some Apps I've built :
+[![SecMe](https://secme.site/logo-small.png)](https://secme.site) [![Flash-Up](https://flash-up.fr/logo-small.png)](https://flash-up.fr) [![Linbolt](https://img.shields.io/badge/Linbolt-ff924d?style=for-the-badge)](https://github.com/NoeGRANGE/email-classifier)
+
 ## 💻 Tech Stack:
 
 ### Langages
